@@ -9,4 +9,4 @@ just for test
 
 you have modified this file for fifth times.
 
-</body></html>
+Git tracks changes.
